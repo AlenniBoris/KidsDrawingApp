@@ -1,7 +1,7 @@
 
 # KidsDrawingApp
 
-KidsDrawingApp is an app, which allows you? or your child, to draw.
+KidsDrawingApp is an app, which allows you, or your child, to draw.
 
 In this app, you can upload your own background photo and draw on it. Also you can save your drawing, and it will be saved in the external storage of your device. 
 
